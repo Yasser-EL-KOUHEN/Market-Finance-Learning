@@ -46,7 +46,7 @@ Market-Finance-Learning/
 
 ## Curriculum map
 
-### I — Financial statements that actually connect (must-have)
+### I — Financial statements that actually connect
 **Themes:** IS/BS/CF linkage, accrual vs cash, working capital, capex, ROIC/ROE, FCF, EV vs equity.
 
 - Accounting Basics (Francesco Grazioli, ESCP)  
@@ -54,28 +54,28 @@ Market-Finance-Learning/
 - Khan Academy — accrual vs cash + cash flow statement + statement links  
 - Damodaran — ROIC note (apply once)
 
-### II — Corporate finance + valuation (must-have)
+### II — Corporate finance + valuation
 **Themes:** FCFF/DCF, WACC intuition, terminal value, sensitivities, relative valuation (multiples), capital structure basics.
 
 - Damodaran — Corporate Finance Online Class  
 - Damodaran — Valuation Online Class  
 - *(Optional, practical)* UIUC (Coursera) — Forecasting Financial Statements & Valuation for Accountants
 
-### III — Investments basics (must-have)
+### III — Investments basics 
 **Themes:** risk/return, diversification, drawdowns, CAPM/beta/ERP intuition, behavioral finance, why backtests lie.
 
 - Yale (Coursera) — Financial Markets (Shiller)  
 - University of Geneva (Coursera) — Investment Management Specialization  
 - Damodaran — Investment Philosophies
 
-### IV — Portfolio construction + risk (must-have for buy-side / investment analytics)
+### IV — Portfolio construction + risk 
 **Themes:** constraints/turnover, rebalancing, risk decomposition, stress testing, performance attribution.
 
 - University of Geneva — Investment Management (Coursera)  
 - Rice (Coursera) — Investment Strategies and Portfolio Analysis  
 - HEC Paris + AXA IM (Coursera) — Investment Management in an Evolving and Volatile World
 
-### V — Fixed income & derivatives (conceptual only)
+### V — Fixed income & derivatives 
 **Themes:** bond pricing intuition, duration, yield curve; what options/futures/swaps are used for.
 
 - Khan Academy — Bonds  
