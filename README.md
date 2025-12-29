@@ -57,14 +57,14 @@ Market-Finance-Learning/
 ### II — Corporate finance + valuation
 **Themes:** FCFF/DCF, WACC intuition, terminal value, sensitivities, relative valuation (multiples), capital structure basics.
 
-- Damodaran — Corporate Finance Online Class  
-- Damodaran — Valuation Online Class  
-- *(Optional, practical)* UIUC (Coursera) — Forecasting Financial Statements & Valuation for Accountants
+1. Damodaran — Corporate Finance Online Class  
+1. Damodaran — Valuation Online Class  
+1. *(Optional, practical)* UIUC (Coursera) — Forecasting Financial Statements & Valuation for Accountants
 
 ### III — Investments basics 
 **Themes:** risk/return, diversification, drawdowns, CAPM/beta/ERP intuition, behavioral finance, why backtests lie.
 
-- Yale (Coursera) — Financial Markets (Shiller)  
+1. Yale (Coursera) — Financial Markets (Shiller)  
 - University of Geneva (Coursera) — Investment Management Specialization  
 - Damodaran — Investment Philosophies
 
