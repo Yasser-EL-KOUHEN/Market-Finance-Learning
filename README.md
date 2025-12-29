@@ -57,51 +57,51 @@ Market-Finance-Learning/
 ### II — Corporate finance + valuation
 **Themes:** FCFF/DCF, WACC intuition, terminal value, sensitivities, relative valuation (multiples), capital structure basics.
 
-1. Damodaran — Corporate Finance Online Class  
-1. Damodaran — Valuation Online Class  
-1. *(Optional, practical)* UIUC (Coursera) — Forecasting Financial Statements & Valuation for Accountants
+5. Damodaran — Corporate Finance Online Class  
+6. Damodaran — Valuation Online Class  
+7. *(Optional, practical)* UIUC (Coursera) — Forecasting Financial Statements & Valuation for Accountants
 
 ### III — Investments basics 
 **Themes:** risk/return, diversification, drawdowns, CAPM/beta/ERP intuition, behavioral finance, why backtests lie.
 
-1. Yale (Coursera) — Financial Markets (Shiller)  
-- University of Geneva (Coursera) — Investment Management Specialization  
-- Damodaran — Investment Philosophies
+8. Yale (Coursera) — Financial Markets (Shiller)  
+9. University of Geneva (Coursera) — Investment Management Specialization  
+10. Damodaran — Investment Philosophies
 
 ### IV — Portfolio construction + risk 
 **Themes:** constraints/turnover, rebalancing, risk decomposition, stress testing, performance attribution.
 
-- University of Geneva — Investment Management (Coursera)  
-- Rice (Coursera) — Investment Strategies and Portfolio Analysis  
-- HEC Paris + AXA IM (Coursera) — Investment Management in an Evolving and Volatile World
+11. University of Geneva — Investment Management (Coursera)  
+12. Rice (Coursera) — Investment Strategies and Portfolio Analysis  
+13. HEC Paris + AXA IM (Coursera) — Investment Management in an Evolving and Volatile World
 
 ### V — Fixed income & derivatives 
 **Themes:** bond pricing intuition, duration, yield curve; what options/futures/swaps are used for.
 
-- Khan Academy — Bonds  
-- Khan Academy — Derivatives playlist
+14. Khan Academy — Bonds  
+15. Khan Academy — Derivatives playlist
 
 ---
 
 ## Specialization add-ons
 
 ### A — Equity Research
-- EDUCBA (Coursera) — Equity Research Report Writing  
-- UIUC — Forecasting Financial Statements & Valuation…  
-- YouTube — ER training playlists (e.g., CFA Society Emirates)
+16. EDUCBA (Coursera) — Equity Research Report Writing  
+17. UIUC — Forecasting Financial Statements & Valuation…  
+18. YouTube — ER training playlists (e.g., CFA Society Emirates)
 
 ### B — Quantamental / systematic equity research
-- HKUST (Coursera) — Python and Statistics for Financial Analysis  
-- Erasmus (Coursera) — Econometrics: Methods and Applications  
-- SUNY (Coursera) — Practical Time Series Analysis  
-- EDHEC (Coursera) — Investment Management with Python & ML specialization
+19. HKUST (Coursera) — Python and Statistics for Financial Analysis  
+20. Erasmus (Coursera) — Econometrics: Methods and Applications  
+21. SUNY (Coursera) — Practical Time Series Analysis  
+22. EDHEC (Coursera) — Investment Management with Python & ML specialization
 
 ### C — Market microstructure / execution analytics
-- Coursera — Market Microstructure (Università di Napoli Federico II)  
-- *(Optional discovery)* Class Central — microstructure course list
+23. Coursera — Market Microstructure (Università di Napoli Federico II)  
+24. *(Optional discovery)* Class Central — microstructure course list
 
 ### D — Insurance / reinsurance investment analytics (ALM)
-- NPTEL (IIT Madras) — Bank Management (ALM module)
+25. NPTEL (IIT Madras) — Bank Management (ALM module)
 
 ---
 
