@@ -49,10 +49,10 @@ Market-Finance-Learning/
 ### I — Financial statements that actually connect
 **Themes:** IS/BS/CF linkage, accrual vs cash, working capital, capex, ROIC/ROE, FCF, EV vs equity.
 
-- Accounting Basics (Francesco Grazioli, ESCP)  
-- Damodaran — Accounting 101  
-- Khan Academy — accrual vs cash + cash flow statement + statement links  
-- Damodaran — ROIC note (apply once)
+1. Accounting Basics (Francesco Grazioli, ESCP)  
+2. Damodaran — Accounting 101  
+3. Khan Academy — accrual vs cash + cash flow statement + statement links  
+4. Damodaran — ROIC note (apply once)
 
 ### II — Corporate finance + valuation
 **Themes:** FCFF/DCF, WACC intuition, terminal value, sensitivities, relative valuation (multiples), capital structure basics.
