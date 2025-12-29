@@ -49,31 +49,31 @@ Market-Finance-Learning/
 ### I — Financial statements that actually connect
 **Themes:** IS/BS/CF linkage, accrual vs cash, working capital, capex, ROIC/ROE, FCF, EV vs equity.
 
-1. Accounting Basics (Francesco Grazioli, ESCP)  
-1. Damodaran — Accounting 101  
-1. Khan Academy — accrual vs cash + cash flow statement + statement links  
-1. Damodaran — ROIC note (apply once)
+1. ESCP — Accounting Basics (Francesco Grazioli)
+1. NYU — Accounting 101 (Damodaran)
+1. Khan Academy — Accrual vs cash + cash flow statement + statement links  
+1. NYU — ROIC note (Damodaran)
 
 ### II — Corporate finance + valuation
 **Themes:** FCFF/DCF, WACC intuition, terminal value, sensitivities, relative valuation (multiples), capital structure basics.
 
-5. Damodaran — Corporate Finance Online Class  
-6. Damodaran — Valuation Online Class  
-7. *(Optional, practical)* UIUC (Coursera) — Forecasting Financial Statements & Valuation for Accountants
+5. NYU — Corporate Finance Online Class (Damodaran)
+6. NYU — Valuation Online Class (Damodaran)
+7. UIUC — Forecasting Financial Statements & Valuation for Accountants (Coursera)
 
 ### III — Investments basics 
 **Themes:** risk/return, diversification, drawdowns, CAPM/beta/ERP intuition, behavioral finance, why backtests lie.
 
-8. Yale (Coursera) — Financial Markets (Shiller)  
-9. University of Geneva (Coursera) — Investment Management Specialization  
-10. Damodaran — Investment Philosophies
+8. Yale — Financial Markets (Shiller) (Coursera)
+9. University of Geneva — Investment Management Specialization (Coursera)
+10. NYU — Investment Philosophies (Damodaran)
 
 ### IV — Portfolio construction + risk 
 **Themes:** constraints/turnover, rebalancing, risk decomposition, stress testing, performance attribution.
 
 11. University of Geneva — Investment Management (Coursera)  
-12. Rice (Coursera) — Investment Strategies and Portfolio Analysis  
-13. HEC Paris + AXA IM (Coursera) — Investment Management in an Evolving and Volatile World
+12. Rice University — Investment Strategies and Portfolio Analysis (Coursera)
+13. HEC Paris + AXA IM — Investment Management in an Evolving and Volatile World (Coursera)
 
 ### V — Fixed income & derivatives 
 **Themes:** bond pricing intuition, duration, yield curve; what options/futures/swaps are used for.
@@ -86,19 +86,19 @@ Market-Finance-Learning/
 ## Specialization add-ons
 
 ### A — Equity Research
-16. EDUCBA (Coursera) — Equity Research Report Writing  
-17. UIUC — Forecasting Financial Statements & Valuation…  
-18. YouTube — ER training playlists (e.g., CFA Society Emirates)
+16. EDUCBA — Equity Research Report Writing (Coursera)
+17. UIUC — Forecasting Financial Statements & Valuation (Coursera)
+18. CFA Society Emirates — ER training playlists (YouTube)
 
 ### B — Quantamental / systematic equity research
-19. HKUST (Coursera) — Python and Statistics for Financial Analysis  
-20. Erasmus (Coursera) — Econometrics: Methods and Applications  
-21. SUNY (Coursera) — Practical Time Series Analysis  
-22. EDHEC (Coursera) — Investment Management with Python & ML specialization
+19. HKUST — Python and Statistics for Financial Analysis (Coursera)
+20. Erasmus — Econometrics: Methods and Applications (Coursera)
+21. SUNY — Practical Time Series Analysis (Coursera)
+22. EDHEC — Investment Management with Python & ML specialization (Coursera)
 
 ### C — Market microstructure / execution analytics
-23. Coursera — Market Microstructure (Università di Napoli Federico II)  
-24. *(Optional discovery)* Class Central — microstructure course list
+23. Università di Napoli Federico II — Market Microstructure (Coursera)  
+24. Class Central — microstructure course list
 
 ### D — Insurance / reinsurance investment analytics (ALM)
 25. NPTEL (IIT Madras) — Bank Management (ALM module)
