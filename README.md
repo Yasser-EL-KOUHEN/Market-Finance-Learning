@@ -109,7 +109,6 @@ Market-Finance-Learning/
 
 - **Paraphrased summaries**, no copy/paste of course materials  
 - Exercises focus on **mechanics + intuition + pitfalls**  
-- Keep outputs **tight and reviewable** (aim: <30 minutes per exercise)
 
 ---
 
